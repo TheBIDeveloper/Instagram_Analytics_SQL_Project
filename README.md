@@ -17,30 +17,6 @@ Businesses and creators need insights to understand:
 
 This project answers these questions using SQL Server and relational data modeling.
 
----
-
-
-## 🗂 Project Structure
-
-Instagram_Analytics_SQL_Project/
-│
-├── schema/
-│ └── README.md
-│
-├── data/
-│ ├── raw/
-│ │ └── README.md
-│ └── cleaned/
-│ └── README.md
-│
-├── queries/
-│ └── README.md
-│
-├── results/
-│ └── README.md
-│
-└── README.md
-
 
 ## 🛠 Tools & Technologies
 - **SQL Server**
